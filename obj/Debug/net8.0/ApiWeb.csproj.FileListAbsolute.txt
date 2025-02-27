@@ -33,3 +33,4 @@ C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\ApiWeb\obj\Deb
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\ApiWeb\obj\Debug\net8.0\ApiWeb.pdb
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\ApiWeb\obj\Debug\net8.0\ApiWeb.genruntimeconfig.cache
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\ApiWeb\obj\Debug\net8.0\ref\ApiWeb.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\ApiWeb\obj\Debug\net8.0\ApiWeb.sourcelink.json
